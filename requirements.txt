@@ -1,3 +1,4 @@
 selene>=2.0.0
 pytest
 webdriver-manager
+allure-pytest
